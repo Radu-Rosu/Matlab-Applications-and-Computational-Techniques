@@ -5,11 +5,11 @@ This repository serves as a collection of MATLAB scripts, projects, and implemen
 ## Contents  
 
 ### Current Topics  
-1. **Numerical Methods**  
+1. **Numerical Methods - NM**  
    - Root-finding algorithms, integration, differentiation, and matrix computations.  
    - Applications to solve engineering and mathematical problems.  
 
-2. **Signals and Systems**  
+2. **Signals and Systems - SS**  
    - Signal transformations, Fourier and Laplace analysis, and system modeling.  
    - Examples include convolution, spectral analysis, and filter design.  
 
